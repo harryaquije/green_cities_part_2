@@ -36,5 +36,5 @@ install.packages(c("osmdata", "sf", "dplyr", "units", "ggplot2", "ggspatial", "h
 ```
 ## Authors & Contact
 
-**Harry Aquije**  
+**Harry Aquije Ballon**  
 Email: [harry.aquije@gmail.com](mailto:harry.aquije@gmail.com)
